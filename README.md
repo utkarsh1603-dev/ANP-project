@@ -6,11 +6,3 @@ Stock Trend Screener is a data-driven tool designed to analyze historical market
 Next-Day Prediction: Uses to forecast the upcoming market price.
 Interactive Visualizations: Generates clean, easy-to-read graphs showing historical trends alongside the predicted value.
 
-# How It Works
-The screener follows a three-step pipeline to ensure accuracy and clarity:
-
-Data Acquisition: Pulls OHLC (Open, High, Low, Close) data for the specific ticker.
-
-Processing: Normalizes data and applies technical indicators to identify momentum.
-
-Visualization: Plots the historical "Close" prices and highlights the predicted "Next Day" point.
